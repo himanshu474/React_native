@@ -2,7 +2,9 @@
 
 A production-quality e-commerce mobile application built with React Native (Expo) and TypeScript. Features include product browsing, cart management, user authentication, and Stripe payment integration.
 
-## 📱 Demo
+
+## 📱 App Demo
+[Video Description](https://github.com/user-attachments/assets/796eab19-c08d-4e22-9911-01d3a843f721)
 
 
 
