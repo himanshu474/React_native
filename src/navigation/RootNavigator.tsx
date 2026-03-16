@@ -37,7 +37,7 @@ const RootNavigator: React.FC = () => {
       ) : (
         <>
           <Stack.Screen name="MainTabs" component={AppNavigator} />
-          <Stack.Screen name="Success" component={SuccessScreen} />
+          {/* <Stack.Screen name="Success" component={SuccessScreen} /> */}
         </>
       )}
     </Stack.Navigator>

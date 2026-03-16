@@ -27,7 +27,7 @@ import OrderSummary from '../components/OrderSummary';
 import PaymentMethod from '../components/PaymentMethod';
 
 // Stripe publishable key (test mode) - Replace with your actual key
-const STRIPE_KEY = 'pk_test_51OjExamplePublishableKeyHere';
+const STRIPE_KEY = 'pk_test_51BTUDGJAJfZb9HEBwDg86TN1KNprHjkfipXmEDMb0gSCassK5T3ZfxsAbcgKVmAIXF7oZ6ItlZZbXO6idTHE67IM007EwQ4uN3';
 
 // Wrapper component to handle Stripe initialization
 const CartContent: React.FC<{
